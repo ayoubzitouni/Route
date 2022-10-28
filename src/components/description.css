@@ -1,0 +1,11 @@
+.description{
+width: 100%;
+
+
+}
+.description_title{
+    text-decoration: underline ;
+    text-align: center;
+    margin-top: 20px;
+    font-stretch:extra-expanded;
+}
